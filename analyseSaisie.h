@@ -1,0 +1,3 @@
+
+
+extern void analyseSaisie(String);
